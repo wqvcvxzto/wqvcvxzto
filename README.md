@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Anika Harber
 
-<!--
-**wqvcvxzto/wqvcvxzto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a focus on building scalable and maintainable applications.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Primary language: TypeScript
+- Also works with: Vue, React, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+Feel free to reach out to me on GitHub or through other platforms.
+
+## GitHub Profile
+https://github.com/wqvcvxzto
